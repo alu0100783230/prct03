@@ -4,12 +4,12 @@ Respuestas a las preguntas de la práctica 3
 hasta decidir si unificar ambas o descartar la experimental. Es además útil para
 trabajar en equipo y que cada persona edite y modifique de forma aislada al resto
 
-
-
-
-
-
-
 3.- Que coloca todas las versiones de la 2a rama en la master, de forma que se 
-puede borrar la 2a rama y seguir trabajand normalmente en la master como si nunca
+puede borrar la 2a rama y seguir trabajando normalmente en la master como si nunca
 hubiese existido la rama 2
+
+2.- Es un método de unificación de dos ramas por el cual las confirmaciones de 
+una rama son movidas a la rama master y colocada al final de la misma, pasando 
+el puntero master a señalar a la última confirmación de aquella rama. 
+
+
