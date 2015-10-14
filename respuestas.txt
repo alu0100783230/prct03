@@ -3,3 +3,13 @@ Respuestas a las preguntas de la práctica 3
 1.- Poder trabajar en una versión experimental sin modificar la versión estable
 hasta decidir si unificar ambas o descartar la experimental. Es además útil para
 trabajar en equipo y que cada persona edite y modifique de forma aislada al resto
+
+
+
+
+
+
+
+3.- Que coloca todas las versiones de la 2a rama en la master, de forma que se 
+puede borrar la 2a rama y seguir trabajand normalmente en la master como si nunca
+hubiese existido la rama 2
